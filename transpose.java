@@ -1,8 +1,8 @@
 public class transpose {
  
     public static void printtranspose(int transpose[][]){
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
+        for(int i=0;i<transpose.length;i++){
+            for(int j=0;j<transpose[0].length;j++){
                 System.out.print(transpose[j][i]+ " ");
             }
             System.out.println();
