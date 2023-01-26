@@ -6,6 +6,7 @@ public class transpose {
                 System.out.print(transpose[j][i]+ " ");
             }
             System.out.println();
+            
         }
     }
     public static void main(String[] args) {
