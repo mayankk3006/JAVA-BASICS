@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class hcflcm{
-   public static void main(String args[]){
+   public static void main(String args[]){ 
       int temp1, temp2, num1, num2, temp, hcf, lcm;
       Scanner scanner = new Scanner(System.in);
 
